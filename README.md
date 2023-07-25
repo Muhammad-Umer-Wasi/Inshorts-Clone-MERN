@@ -13,7 +13,7 @@ This GitHub repository contains a complete clone of the popular news aggregator 
 - Users can post new articles on the website using a simple form, and the data is stored in the MongoDB database.
 - Deployment on Heroku, making the website accessible to a wider audience.
 
-[Visit the live demo](https://your-live-demo-url.com)
+[Visit the live demo](https://imgur.com/a/RHomYra)
 ![Inshorts Clone Screenshot](https://your-screenshot-url.com)
 
 ## Getting Started
